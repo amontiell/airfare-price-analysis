@@ -8,7 +8,7 @@ Trabajo práctico de la materia **Visualización de la Información** — ITBA.
 
 ## Dashboard interactivo
 
-🔗 [Ver dashboard en Flourish](PEGAR_LINK_DE_FLOURISH_ACA)
+🔗 [Ver dashboard en Flourish](https://public.flourish.studio/story/3715814/)
 
 ## Pregunta de interés
 
