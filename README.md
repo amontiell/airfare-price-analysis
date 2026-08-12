@@ -31,11 +31,13 @@ Trabajo práctico de la materia **Visualización de la Información** — ITBA.
 ## Estructura del repositorio
 
 ```
-ranking_precios_aerolineas.ipynb   → notebook con el análisis y la generación del bump chart
+ranking_precios_aerolineas.py   → script de análisis y generación del bump chart
 ```
 
 ## Cómo ejecutar
 
-Abrir `ranking_precios_aerolineas.ipynb` en Jupyter, Google Colab, o VS Code con la extensión de Jupyter, y correr las celdas en orden.
+```bash
+python ranking_precios_aerolineas.py
+```
 
 *(Requiere una cuenta de Kaggle configurada para la descarga automática del dataset vía `kagglehub`, o descargar el CSV manualmente desde el link del dataset.)*
